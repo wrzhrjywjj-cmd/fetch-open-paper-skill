@@ -1,0 +1,4 @@
+interface:
+  display_name: "查找并下载公开论文"
+  short_description: "首次说明输出文件夹，随后按标题或 DOI 检索、下载并验证公开 PDF"
+  default_prompt: "Use $fetch-open-paper to ask once for an outputs subfolder, reuse it for later papers, and use a normal browser fallback when direct public PDF requests fail."
